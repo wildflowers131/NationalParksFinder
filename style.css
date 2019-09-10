@@ -1,0 +1,9 @@
+* {
+  box-sizing: border-box;
+  padding: 5px;
+  margin: 5px;
+}
+
+.hidden {
+  display: none;
+}
