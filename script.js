@@ -29,7 +29,7 @@ function displayResults(responseJson, maxResults) {
 };
 
 function getParks(states, maxResults) {
-  const apiKey = 'GUuTJYDNOwyAPCw0uT46AvvoeujZylepH8dHaUWj';
+  const apiKey = /*insert your API key here*/
 
   const params = {
     'stateCode': states,
